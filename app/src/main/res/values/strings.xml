@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Currency Exchanger</string>
+    <string name="placeholder_description">United States Dollar</string>
+    <string name="placeholder_code">USD</string>
+    <string name="placeholder_rate">26.933241</string>
+    <string name="no_data">No data to display</string>
+    <string name="no_internet">Check internet connection</string>
+
+    <string-array name="list_of_currency_entries">
+        <item name="AED">AED</item>
+        <item name="AUD">AUD</item>
+        <item name="BRL">BRL</item>
+        <item name="CAD">CAD</item>
+        <item name="CHF">CHF</item>
+        <item name="CNY">CNY</item>
+        <item name="DKK">DKK</item>
+        <item name="EGP">EGP</item>
+        <item name="EUR">EUR</item>
+        <item name="GBP">GBP</item>
+        <item name="GEL">GEL</item>
+        <item name="HKD">HKD</item>
+        <item name="INR">INR</item>
+        <item name="ILS">ILS</item>
+        <item name="JPY">JPY</item>
+        <item name="KRW">KRW</item>
+        <item name="NOK">NOK</item>
+        <item name="NZD">NZD</item>
+        <item name="PLN">PLN</item>
+        <item name="RUB">RUB</item>
+        <item name="SGD">SGD</item>
+        <item name="THB">THB</item>
+        <item name="TWD">TWD</item>
+        <item name="USD">USD</item>
+        <item name="VND">VND</item>
+    </string-array>
+</resources>
